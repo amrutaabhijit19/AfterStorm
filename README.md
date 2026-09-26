@@ -1,26 +1,26 @@
-# 🌩️ AfterStorm
+#  AfterStorm
 
 *A gentle space for healing, one day at a time.*
 AfterStorm is a trauma support web application prototype designed to provide emotional support for individuals recovering from difficult experiences. The platform offers daily mental health check-ins, grounding exercises, journaling, and a supportive interface to encourage emotional well-being.
 This project was developed as part of a hackathon with the goal of creating an accessible and compassionate digital space for trauma recovery.
 
 
-## ✨ Features
+##  Features
 
-### 📝 Trauma Check-in
+###  Trauma Check-in
 - Select the type of traumatic experience.
 - Record when the event occurred.
 - Share thoughts in a private journal-like space.
 - Optional emergency contact field for caregiver support.
 
 
-### 💙 Daily Mental Health Assessment
+###  Daily Mental Health Assessment
 - Guided questionnaire to assess emotional well-being.
 - Calculates a daily distress score.
 - Provides supportive feedback based on responses.
 
 
-### 🌿 Grounding Exercises
+###  Grounding Exercises
 
 A collection of calming techniques including:
 
@@ -31,7 +31,7 @@ A collection of calming techniques including:
 
 These exercises are designed to help users manage anxiety and emotional distress.
 
-### 📊 Wellness Summary
+###  Wellness Summary
 
 Displays
 
@@ -41,7 +41,7 @@ Displays
 - Support chat option
 
 
-### 📖 Personal Journal
+###  Personal Journal
 
 A private journaling interface where users can
 
@@ -50,24 +50,24 @@ A private journaling interface where users can
 - Save daily journal entries
 
 
-### 💬 Support Chat (Prototype)
+###  Support Chat (Prototype)
 
 A dedicated chat interface intended for future AI-powered emotional support.
 Current implementation demonstrates the user interface and overall experience.
 
 
-### 🤝 Peer Support Circles (Prototype)
+###  Peer Support Circles (Prototype)
 
 Designed as a concept for anonymous peer communities where individuals with similar experiences could connect and support one another.
 The current version demonstrates the planned interface and user flow.
 
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
-## 🚧 Current Limitations
+##  Current Limitations
 
 This project was developed within the limited timeframe of a hackathon.
 
@@ -79,7 +79,7 @@ Current limitations include:
 - Support Chat is a placeholder interface for future AI integration.
 - No database integration.
 
-## 💡 Future Improvements
+##  Future Improvements
 
 - User authentication
 - Secure database for journal entries
